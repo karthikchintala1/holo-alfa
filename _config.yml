@@ -23,6 +23,9 @@ author:
 url: http://steinvc.github.io
 baseurl: "/holo-alfa"
 
+# Google analytics
+google_analytics: 
+
 # language attribute in <html> element.
 lang: en
 
